@@ -1,0 +1,6 @@
+Class -> terdapat beberapa class antara lain : TeamSepakBola, clas Club dan NationalTeam yang extends ke clas TeamSepakBola 
+Object -> terdapat beberapa object yang menghandle function untuk beberapa function
+Encapsulation -> seter dan getter ada beberapa function method yang mengahndle agar hak akses protected bisa tetap di akses
+Inheritance -> ada conoth kasus yang membuat program sedikit aga komplek dikarena kan ada pembeda antara club dan team nasional
+Polymorphism
+Override -> untuk override sudah ada 4 parent, yang mengambil ke construct dan manggil funsi yang namanya sama
