@@ -38,7 +38,7 @@ class TeamSepakBola {
     public function setJumlahPemain($jumlahPemain){
         $this->jumlahPemain = $jumlahPemain;
     }
-    public function getJumlahpemain($jumlahPemain){
+    public function getJumlahpemain(){
         return $this->jumlahPemain = $jumlahPemain;
     }
 
