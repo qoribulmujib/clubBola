@@ -38,14 +38,11 @@ class TeamSepakBola {
     public function setJumlahPemain($jumlahPemain){
         $this->jumlahPemain = $jumlahPemain;
     }
-    public function getJumlahpemain(){
-        return $this->jumlahPemain = $jumlahPemain;
-    }
 
     public function setKelahiranTeam($kelahiranTeam){
         $this->kelahiranTeam = $kelahiranTeam;
     }
-    public function getKelahiranTeam($kelahiranTeam){
+    public function getKelahiranTeam(){
         return $this->kelahiranTeam;
     }
 
@@ -107,6 +104,18 @@ echo "<br>";
 echo $club2->tampilTeam();
 // $club1->setNamaTeam("mujib");
 // echo "<br>";
+
 // echo $club1->getNamaTeam();
+// echo $club2->getNamaTeam();
+
+
+// echo $club1->getPelatih();
+// echo $club2->getPelatih();
+
+// echo $club1->tampilTeam();
+// echo $club2->tampilTeam();
+
+// echo$club1->getKelahiranTeam();
+// echo$club2->getKelahiranTeam();
 
 ?>
